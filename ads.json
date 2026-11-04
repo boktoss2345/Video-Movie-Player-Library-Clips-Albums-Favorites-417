@@ -38,7 +38,7 @@
           "contentScale": "fit",
           "cornerRadiusDp": 24,
           "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
+          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FSTNPJT6"
         },
         {
           "type": "button",
@@ -53,135 +53,7 @@
           "cornerRadiusDp": 16,
           "gravity": "center",
           "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
-        },
-        {
-          "type": "countdown",
-          "enabled": true,
-          "seconds": 20,
-          "style": "circle",
-          "position": "topRight",
-          "autoCloseAtZero": true
-        }
-      ]
-    },
-    {
-      "id": "ad_video_02",
-      "enabled": true,
-      "elements": [
-        {
-          "type": "video",
-          "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Movie-Player-Library-Clips-Albums-Favorites-417/assets/video1565fs.mp4",
-          "autoplay": true,
-          "loop": true,
-          "muted": true,
-          "controls": false,
-          "widthPercent": 82,
-          "maxWidthDp": 420,
-          "contentScale": "fit",
-          "cornerRadiusDp": 24,
-          "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
-        },
-        {
-          "type": "button",
-          "enabled": true,
-          "text": "❌Download Without ADS❌\nAvatar World Pazu",
-          "widthPercent": 82,
-          "maxWidthDp": 420,
-          "marginDp": 12,
-          "backgroundColor": "#FFD400",
-          "textColor": "#000000",
-          "textSizeSp": 18,
-          "cornerRadiusDp": 16,
-          "gravity": "center",
-          "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
-        },
-        {
-          "type": "countdown",
-          "enabled": true,
-          "seconds": 20,
-          "style": "circle",
-          "position": "topRight",
-          "autoCloseAtZero": true
-        }
-      ]
-    },
-    {
-      "id": "ad_image_03",
-      "enabled": true,
-      "elements": [
-        {
-          "type": "video",
-          "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Movie-Player-Library-Clips-Albums-Favorites-417/assets/video584585.mp4",
-          "autoplay": true,
-          "loop": true,
-          "muted": true,
-          "controls": false,
-          "widthPercent": 82,
-          "maxWidthDp": 420,
-          "contentScale": "fit",
-          "cornerRadiusDp": 24,
-          "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
-        },
-        {
-          "type": "button",
-          "enabled": true,
-          "text": "❌Download Without ADS❌\nAvatar World Pazu",
-          "widthPercent": 82,
-          "maxWidthDp": 420,
-          "marginDp": 12,
-          "backgroundColor": "#FFD400",
-          "textColor": "#000000",
-          "textSizeSp": 18,
-          "cornerRadiusDp": 16,
-          "gravity": "center",
-          "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
-        },
-        {
-          "type": "countdown",
-          "enabled": true,
-          "seconds": 20,
-          "style": "circle",
-          "position": "topRight",
-          "autoCloseAtZero": true
-        }
-      ]
-    },
-    {
-      "id": "ad_image_01",
-      "enabled": true,
-      "elements": [
-        {
-          "type": "image",
-          "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Movie-Player-Library-Clips-Albums-Favorites-417/assets/image45465.png",
-          "widthPercent": 94,
-          "maxWidthDp": 760,
-          "contentScale": "fit",
-          "cornerRadiusDp": 20,
-          "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
-        },
-        {
-          "type": "button",
-          "enabled": true,
-          "text": "❌Download Without ADS❌\nAvatar World Pazu",
-          "widthPercent": 82,
-          "maxWidthDp": 420,
-          "marginDp": 12,
-          "backgroundColor": "#FFD400",
-          "textColor": "#000000",
-          "textSizeSp": 18,
-          "cornerRadiusDp": 16,
-          "gravity": "center",
-          "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DC5QZLH7"
+          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FSTNPJT6"
         },
         {
           "type": "countdown",
